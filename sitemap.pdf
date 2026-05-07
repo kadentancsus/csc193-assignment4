@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1002 >>
+stream
+BT /F1 20 Tf 130 760 Td (Website Sitemap: Marine Biology Explorer) Tj ET
+1 w 230 660 150 36 re S
+BT /F1 14 Tf 255 675 Td (Home / index.html) Tj ET
+1 w 40 500 150 36 re S
+BT /F1 12 Tf 54 514 Td (Species Search) Tj ET
+1 w 230 500 150 36 re S
+BT /F1 12 Tf 244 514 Td (Reef News) Tj ET
+1 w 420 500 150 36 re S
+BT /F1 12 Tf 434 514 Td (Photo Gallery) Tj ET
+1 w 40 400 150 36 re S
+BT /F1 12 Tf 54 414 Td (User Profiles) Tj ET
+1 w 230 400 150 36 re S
+BT /F1 12 Tf 244 414 Td (Conservation Tips) Tj ET
+1 w 420 400 150 36 re S
+BT /F1 12 Tf 434 414 Td (Contact / About) Tj ET
+305 660 m 115.0 536 l S
+305 660 m 305.0 536 l S
+305 660 m 495.0 536 l S
+305 500 m 115.0 436 l S
+305 500 m 305.0 436 l S
+305 500 m 495.0 436 l S
+BT /F1 11 Tf 45 300 Td (Features included: Species Search, Reef News, Photo Gallery, User Profiles,) Tj ET
+BT /F1 11 Tf 45 282 Td (Conservation Tips, and Contact/About \(6 total\).) Tj ET
+BT /F1 11 Tf 45 264 Td (This sitemap is based on the Marine Biology Explorer topic in index.html.) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1365
+%%EOF
